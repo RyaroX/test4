@@ -6,5 +6,9 @@ a = 13
 b = 5
 print(plus(a,b))
 print(mult(a,b))
+<<<<<<< HEAD
 c = 100
 print(plusx(a,b,c))
+=======
+print(multx(a,b,3))
+>>>>>>> mult
